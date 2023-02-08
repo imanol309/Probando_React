@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  gap: 5px;
+}
+
+.fetchOne {
+  width: 50%;
+}
+.informa_Api {
+  display: flex;
+  justify-content: center;
+  flex-direction: center;
+  align-content: center;
+  gap:8px;
+}
+
+.color {
+  color:red
+}
+
+img {
+  height: auto;
+  width: 250px;
+}
